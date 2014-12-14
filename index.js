@@ -3,6 +3,7 @@
 /**
  * expects:
  * config (object) (required)
+ * config.grid (required)
  * config.check (function) (required)
  * config.set (function) (required)
  * config.store_steps (bool) (optional)
