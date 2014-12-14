@@ -1,0 +1,19 @@
+{
+  "name": "floodfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonwinkler/floodfill.git"
+  },
+  "author": "Simon Winkler <sw@fastseeders.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonwinkler/floodfill/issues"
+  },
+  "homepage": "https://github.com/simonwinkler/floodfill"
+}
